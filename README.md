@@ -5,7 +5,6 @@
   <span>
     <img src="https://img.shields.io/npm/dt/vue-hotjar-next.svg"> 
   <img src="https://packagequality.com/shield/vue-hotjar-next.svg">
-  [![Build](https://github.com/henk-badenhorst/vue-hotjar-next/actions/workflows/ci-cd-pipeline.yml/badge.svg)](https://github.com/henk-badenhorst/vue-hotjar-next/actions/workflows/ci-cd-pipeline.yml)
   </span>
   &nbsp;
 </p>
